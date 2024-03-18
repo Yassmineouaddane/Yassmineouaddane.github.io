@@ -1,0 +1,15 @@
+p {
+  color: blue;
+  font-size: 16px;
+}
+
+.titre {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+#logo {
+  width: 200px;
+  height: 150px;
+}
+```
